@@ -1,5 +1,8 @@
 ### credit-card-fraud-transaction-MLFLOW
 
+This tutorial showcases how you can use MLflow end-to-end to:
+
+
 ###  Comparing the Models
 Use the MLflow UI to compare the models that you have produced. In the same current working directory as the one that contains the mlruns run:
 mlflow ui
